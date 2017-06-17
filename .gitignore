@@ -1,0 +1,8 @@
+/target/*
+.classpath
+.project
+/.settings/*
+*.class
+*.prefs
+*.MF
+*.facet.core.xml
